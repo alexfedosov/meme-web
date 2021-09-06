@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="308px" height="68px" viewBox="0 0 308 68" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Artboard</title>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2">
+            <path d="M20,64 L20,32 L28,32 L28,64 L44,64 L44,32 L52,32 L52,64 L68,64 L68,32 L60,32 L60,24 L4,24 L4,64 L20,64 Z M116,64 L116,56 L92,56 L92,48 L116,48 L116,32 L108,32 L108,24 L84,24 L84,32 L76,32 L76,56 L84,56 L84,64 L116,64 Z M100,40 L92,40 L92,32 L100,32 L100,40 Z M140,64 L140,32 L148,32 L148,64 L164,64 L164,32 L172,32 L172,64 L188,64 L188,32 L180,32 L180,24 L124,24 L124,64 L140,64 Z M236,64 L236,56 L212,56 L212,48 L236,48 L236,32 L228,32 L228,24 L204,24 L204,32 L196,32 L196,56 L204,56 L204,64 L236,64 Z M220,40 L212,40 L212,32 L220,32 L220,40 Z M276,64 L276,56 L284,56 L284,32 L276,32 L276,24 L252,24 L252,32 L244,32 L244,56 L252,56 L252,64 L276,64 Z M268,56 L260,56 L260,32 L268,32 L268,56 Z" id="memeo" fill="#FFB400" fill-rule="nonzero"></path>
+            <path d="M24,60 L24,28 L32,28 L32,60 L48,60 L48,28 L56,28 L56,60 L72,60 L72,28 L64,28 L64,20 L8,20 L8,60 L24,60 Z M120,60 L120,52 L96,52 L96,44 L120,44 L120,28 L112,28 L112,20 L88,20 L88,28 L80,28 L80,52 L88,52 L88,60 L120,60 Z M104,36 L96,36 L96,28 L104,28 L104,36 Z M144,60 L144,28 L152,28 L152,60 L168,60 L168,28 L176,28 L176,60 L192,60 L192,28 L184,28 L184,20 L128,20 L128,60 L144,60 Z M240,60 L240,52 L216,52 L216,44 L240,44 L240,28 L232,28 L232,20 L208,20 L208,28 L200,28 L200,52 L208,52 L208,60 L240,60 Z M224,36 L216,36 L216,28 L224,28 L224,36 Z M280,60 L280,52 L288,52 L288,28 L280,28 L280,20 L256,20 L256,28 L248,28 L248,52 L256,52 L256,60 L280,60 Z M272,52 L264,52 L264,28 L272,28 L272,52 Z" id="memeo" fill="#FF00B4" fill-rule="nonzero"></path>
+            <path d="M28,56 L28,24 L36,24 L36,56 L52,56 L52,24 L60,24 L60,56 L76,56 L76,24 L68,24 L68,16 L12,16 L12,56 L28,56 Z M124,56 L124,48 L100,48 L100,40 L124,40 L124,24 L116,24 L116,16 L92,16 L92,24 L84,24 L84,48 L92,48 L92,56 L124,56 Z M108,32 L100,32 L100,24 L108,24 L108,32 Z M148,56 L148,24 L156,24 L156,56 L172,56 L172,24 L180,24 L180,56 L196,56 L196,24 L188,24 L188,16 L132,16 L132,56 L148,56 Z M244,56 L244,48 L220,48 L220,40 L244,40 L244,24 L236,24 L236,16 L212,16 L212,24 L204,24 L204,48 L212,48 L212,56 L244,56 Z M228,32 L220,32 L220,24 L228,24 L228,32 Z M284,56 L284,48 L292,48 L292,24 L284,24 L284,16 L260,16 L260,24 L252,24 L252,48 L260,48 L260,56 L284,56 Z M276,48 L268,48 L268,24 L276,24 L276,48 Z" id="memeo" fill="#B400FF" fill-rule="nonzero"></path>
+            <path d="M32,52 L32,20 L40,20 L40,52 L56,52 L56,20 L64,20 L64,52 L80,52 L80,20 L72,20 L72,12 L16,12 L16,52 L32,52 Z M128,52 L128,44 L104,44 L104,36 L128,36 L128,20 L120,20 L120,12 L96,12 L96,20 L88,20 L88,44 L96,44 L96,52 L128,52 Z M112,28 L104,28 L104,20 L112,20 L112,28 Z M152,52 L152,20 L160,20 L160,52 L176,52 L176,20 L184,20 L184,52 L200,52 L200,20 L192,20 L192,12 L136,12 L136,52 L152,52 Z M248,52 L248,44 L224,44 L224,36 L248,36 L248,20 L240,20 L240,12 L216,12 L216,20 L208,20 L208,44 L216,44 L216,52 L248,52 Z M232,28 L224,28 L224,20 L232,20 L232,28 Z M288,52 L288,44 L296,44 L296,20 L288,20 L288,12 L264,12 L264,20 L256,20 L256,44 L264,44 L264,52 L288,52 Z M280,44 L272,44 L272,20 L280,20 L280,44 Z" id="memeo" fill="#00B4FF" fill-rule="nonzero"></path>
+            <path d="M36,48 L36,16 L44,16 L44,48 L60,48 L60,16 L68,16 L68,48 L84,48 L84,16 L76,16 L76,8 L20,8 L20,48 L36,48 Z M132,48 L132,40 L108,40 L108,32 L132,32 L132,16 L124,16 L124,8 L100,8 L100,16 L92,16 L92,40 L100,40 L100,48 L132,48 Z M116,24 L108,24 L108,16 L116,16 L116,24 Z M156,48 L156,16 L164,16 L164,48 L180,48 L180,16 L188,16 L188,48 L204,48 L204,16 L196,16 L196,8 L140,8 L140,48 L156,48 Z M252,48 L252,40 L228,40 L228,32 L252,32 L252,16 L244,16 L244,8 L220,8 L220,16 L212,16 L212,40 L220,40 L220,48 L252,48 Z M236,24 L228,24 L228,16 L236,16 L236,24 Z M292,48 L292,40 L300,40 L300,16 L292,16 L292,8 L268,8 L268,16 L260,16 L260,40 L268,40 L268,48 L292,48 Z M284,40 L276,40 L276,16 L284,16 L284,40 Z" id="memeo" fill="#AAF200" fill-rule="nonzero"></path>
+            <path d="M40,44 L40,12 L48,12 L48,44 L64,44 L64,12 L72,12 L72,44 L88,44 L88,12 L80,12 L80,4 L24,4 L24,44 L40,44 Z M136,44 L136,36 L112,36 L112,28 L136,28 L136,12 L128,12 L128,4 L104,4 L104,12 L96,12 L96,36 L104,36 L104,44 L136,44 Z M120,20 L112,20 L112,12 L120,12 L120,20 Z M160,44 L160,12 L168,12 L168,44 L184,44 L184,12 L192,12 L192,44 L208,44 L208,12 L200,12 L200,4 L144,4 L144,44 L160,44 Z M256,44 L256,36 L232,36 L232,28 L256,28 L256,12 L248,12 L248,4 L224,4 L224,12 L216,12 L216,36 L224,36 L224,44 L256,44 Z M240,20 L232,20 L232,12 L240,12 L240,20 Z M296,44 L296,36 L304,36 L304,12 L296,12 L296,4 L272,4 L272,12 L264,12 L264,36 L272,36 L272,44 L296,44 Z M288,36 L280,36 L280,12 L288,12 L288,36 Z" id="memeo" fill="#FFFFFF" fill-rule="nonzero"></path>
+            <rect id="Rectangle" fill="#000000" x="256" y="8" width="4" height="12"></rect>
+            <rect id="Rectangle" fill="#000000" x="248" y="4" width="4" height="8"></rect>
+            <rect id="Rectangle" fill="#000000" x="252" y="8" width="4" height="4"></rect>
+            <rect id="Rectangle" fill="#000000" x="260" y="12" width="4" height="4"></rect>
+            <rect id="Rectangle" fill="#000000" x="260" y="8" width="8" height="4"></rect>
+            <rect id="Rectangle" fill="#000000" x="264" y="4" width="8" height="4"></rect>
+            <rect id="Rectangle" fill="#000000" x="268" y="0" width="28" height="4"></rect>
+            <rect id="Rectangle" fill="#000000" x="296" y="0" width="4" height="12"></rect>
+            <rect id="Rectangle" fill="#000000" x="300" y="8" width="4" height="4"></rect>
+            <rect id="Rectangle" fill="#000000" x="304" y="8" width="4" height="32"></rect>
+            <rect id="Rectangle" fill="#000000" x="300" y="36" width="4" height="8"></rect>
+            <rect id="Rectangle" fill="#000000" x="296" y="40" width="4" height="8"></rect>
+            <rect id="Rectangle" fill="#000000" x="292" y="44" width="4" height="8"></rect>
+            <rect id="Rectangle" fill="#000000" x="288" y="48" width="4" height="8"></rect>
+            <rect id="Rectangle" fill="#000000" x="284" y="52" width="4" height="8"></rect>
+            <rect id="Rectangle" fill="#000000" x="280" y="56" width="4" height="8"></rect>
+            <rect id="Rectangle" fill="#000000" x="276" y="60" width="4" height="8"></rect>
+            <rect id="Rectangle" fill="#000000" x="248" y="64" width="28" height="4"></rect>
+            <rect id="Rectangle" fill="#000000" x="248" y="60" width="4" height="4"></rect>
+            <rect id="Rectangle" fill="#000000" x="240" y="56" width="12" height="4"></rect>
+            <rect id="Rectangle" fill="#000000" x="236" y="60" width="8" height="4"></rect>
+            <rect id="Rectangle" fill="#000000" x="192" y="56" width="12" height="4"></rect>
+            <rect id="Rectangle" fill="#000000" x="200" y="60" width="4" height="4"></rect>
+            <rect id="Rectangle" fill="#000000" x="188" y="60" width="8" height="4"></rect>
+            <rect id="Rectangle" fill="#000000" x="168" y="64" width="24" height="4"></rect>
+            <rect id="Rectangle" fill="#000000" x="164" y="60" width="8" height="4"></rect>
+            <rect id="Rectangle" fill="#000000" x="168" y="56" width="4" height="4"></rect>
+            <rect id="Rectangle" fill="#000000" x="140" y="60" width="8" height="4"></rect>
+            <rect id="Rectangle" fill="#000000" x="144" y="56" width="4" height="4"></rect>
+            <rect id="Rectangle" fill="#000000" x="116" y="60" width="8" height="4"></rect>
+            <rect id="Rectangle" fill="#000000" x="120" y="56" width="4" height="4"></rect>
+            <rect id="Rectangle" fill="#000000" x="72" y="56" width="8" height="4"></rect>
+            <rect id="Rectangle" fill="#000000" x="80" y="4" width="4" height="8"></rect>
+            <rect id="Rectangle" fill="#000000" x="80" y="56" width="4" height="4"></rect>
+            <rect id="Rectangle" fill="#000000" x="80" y="60" width="4" height="4"></rect>
+            <rect id="Rectangle" fill="#000000" x="68" y="60" width="8" height="4"></rect>
+            <rect id="Rectangle" fill="#000000" x="84" y="8" width="8" height="4"></rect>
+            <rect id="Rectangle" fill="#000000" x="88" y="12" width="4" height="8"></rect>
+            <rect id="Rectangle" fill="#000000" x="92" y="8" width="4" height="8"></rect>
+            <rect id="Rectangle" fill="#000000" x="96" y="4" width="4" height="8"></rect>
+            <rect id="Rectangle" fill="#000000" x="100" y="0" width="4" height="8"></rect>
+            <rect id="Rectangle" fill="#000000" x="128" y="4" width="4" height="8"></rect>
+            <rect id="Rectangle" fill="#000000" x="104" y="0" width="28" height="4"></rect>
+            <rect id="Rectangle" fill="#000000" x="132" y="8" width="8" height="4"></rect>
+            <rect id="Rectangle" fill="#000000" x="136" y="4" width="8" height="4"></rect>
+            <rect id="Rectangle" fill="#000000" x="140" y="0" width="64" height="4"></rect>
+            <rect id="Rectangle" fill="#000000" x="220" y="0" width="32" height="4"></rect>
+            <rect id="Rectangle" fill="#000000" x="216" y="4" width="8" height="4"></rect>
+            <rect id="Rectangle" fill="#000000" x="212" y="8" width="8" height="4"></rect>
+            <rect id="Rectangle" fill="#000000" x="208" y="12" width="8" height="4"></rect>
+            <rect id="Rectangle" fill="#000000" x="200" y="8" width="12" height="4"></rect>
+            <rect id="Rectangle" fill="#000000" x="208" y="16" width="4" height="4"></rect>
+            <rect id="Rectangle" fill="#000000" x="200" y="4" width="4" height="4"></rect>
+            <rect id="Rectangle" fill="#000000" x="48" y="56" width="4" height="4"></rect>
+            <rect id="Rectangle" fill="#000000" x="44" y="60" width="8" height="4"></rect>
+            <rect id="Rectangle" fill="#000000" x="24" y="56" width="4" height="4"></rect>
+            <rect id="Rectangle" fill="#000000" x="4" y="16" width="4" height="8"></rect>
+            <rect id="Rectangle" fill="#000000" x="8" y="12" width="4" height="8"></rect>
+            <rect id="Rectangle" fill="#000000" x="12" y="8" width="4" height="8"></rect>
+            <rect id="Rectangle" fill="#000000" x="16" y="4" width="4" height="8"></rect>
+            <rect id="Rectangle" fill="#000000" x="20" y="0" width="4" height="8"></rect>
+            <rect id="Rectangle" fill="#000000" x="24" y="0" width="60" height="4"></rect>
+            <rect id="Rectangle" fill="#000000" x="0" y="20" width="4" height="44"></rect>
+            <rect id="Rectangle" fill="#000000" x="20" y="60" width="8" height="4"></rect>
+            <rect id="Rectangle" fill="#000000" x="80" y="64" width="88" height="4"></rect>
+            <rect id="Rectangle" fill="#000000" x="0" y="64" width="72" height="4"></rect>
+            <rect id="Rectangle" fill="#000000" x="200" y="64" width="40" height="4"></rect>
+        </g>
+    </g>
+</svg>
